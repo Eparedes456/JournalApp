@@ -26,7 +26,7 @@ export const LoginPage = () => {
 
                     </div>
 
-                    <Link to="/auth/register">
+                    <Link to="/auth/register" className='link'>
                         Crear nueva cuenta
                     </Link>
 
